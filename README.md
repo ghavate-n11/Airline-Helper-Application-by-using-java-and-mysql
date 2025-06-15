@@ -48,9 +48,6 @@ The **Airline Helper Application** is a Java-based desktop application designed 
 
 
 ## Contributors
-- **Nilesh Ghavate** 
-- **Tejas Bachute**
-- **Yash Ahire**
-
-## 📜 License
-This project is **open-source** and available under the [MIT License](LICENSE).
+- **Nilesh Ghavate** [Java Developer]
+- **Tejas Bachute** [Frontend Developer]
+- **Yash Ahire** [Sql Developer & Project Management]
